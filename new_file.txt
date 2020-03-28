@@ -1,7 +1,0 @@
-git text
-local file is modified.
-remote file is modified.
-.
-.
-.
-new_file is modified at the branch_1.
