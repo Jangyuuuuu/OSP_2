@@ -3,3 +3,4 @@ local file is modified.
 remote file is modified.
 
 Hello World! (modified at the branch_1)
+I am Yujin Jang. (modified at the branch_2)
